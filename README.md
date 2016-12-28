@@ -8,7 +8,7 @@ Yet Another Stupid Docker &amp; Wildfly Swarm Hello World
 `mvn wildfly-swarm:run`
 
 # Dockerize
-`docker build -t hello-wildfly-swarm .`
+`docker build -t hello-wildfly-swarm .`<br>
 `docker run -d -p 8080:8080 hello-java hello-wildfly-swarm`
 
 # Check it
