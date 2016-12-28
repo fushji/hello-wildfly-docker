@@ -1,2 +1,2 @@
 # hello-wildfly-docker
-Yet Another Stupid Docker &amp; Wildfly Hello World
+Yet Another Stupid Docker &amp; Wildfly Swarm Hello World
